@@ -1,6 +1,6 @@
 # TO-DO List
 
-Esse teste consiste em criar um lista de tarefas.
+Esse teste consiste em criar uma lista de tarefas.  
 Os pré-requisitos são:
 
 - Permitir criar um tarefa, em forma de um card, com um titulo e uma breve descrição.
