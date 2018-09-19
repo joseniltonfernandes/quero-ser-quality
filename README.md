@@ -3,7 +3,7 @@
 Esse teste consiste em criar uma lista de tarefas.  
 Os pré-requisitos são:
 
-- Permitir criar um tarefa, em forma de um card, com um titulo e uma breve descrição.
+- Permitir criar uma tarefa, em forma de um card, com um titulo e uma breve descrição.
 - Permitir excluír a tarefa.
 - Permitir marcar a tarefa como concluída.
 - Incluir um filtro de status de tarefa (concluídas e pendentes).
